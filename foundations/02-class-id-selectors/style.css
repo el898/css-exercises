@@ -1,0 +1,23 @@
+.Number1,.Number5{
+    background-color: rgb(255, 167, 167);
+    
+    font-size: 24px;
+  }
+  
+  #Number2 {
+    font-size: 24px;
+    color: #0000ff;
+    font-size: 36px;
+  }
+  
+  .Number3{
+    background-color: rgb(255, 167, 167);
+    
+    font-size: 30px;
+  }
+
+  #Number4{
+    background-color: hsl(120, 100%, 75%);
+    font-weight: bold;
+    font-size: 20px;
+  }
